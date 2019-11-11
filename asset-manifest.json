@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/new-portfolio/static/css/main.7016e464.chunk.css",
+    "main.js": "/new-portfolio/static/js/main.67bae8fb.chunk.js",
+    "main.js.map": "/new-portfolio/static/js/main.67bae8fb.chunk.js.map",
+    "runtime-main.js": "/new-portfolio/static/js/runtime-main.36659ab8.js",
+    "runtime-main.js.map": "/new-portfolio/static/js/runtime-main.36659ab8.js.map",
+    "static/js/2.a2ba3f49.chunk.js": "/new-portfolio/static/js/2.a2ba3f49.chunk.js",
+    "static/js/2.a2ba3f49.chunk.js.map": "/new-portfolio/static/js/2.a2ba3f49.chunk.js.map",
+    "index.html": "/new-portfolio/index.html",
+    "precache-manifest.1333c3b38aac07c904a36f9d95710b11.js": "/new-portfolio/precache-manifest.1333c3b38aac07c904a36f9d95710b11.js",
+    "service-worker.js": "/new-portfolio/service-worker.js",
+    "static/css/main.7016e464.chunk.css.map": "/new-portfolio/static/css/main.7016e464.chunk.css.map",
+    "static/media/App.css": "/new-portfolio/static/media/coffee-cup-desk-257894.7f764fa0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36659ab8.js",
+    "static/js/2.a2ba3f49.chunk.js",
+    "static/css/main.7016e464.chunk.css",
+    "static/js/main.67bae8fb.chunk.js"
+  ]
+}
