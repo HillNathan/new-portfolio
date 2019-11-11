@@ -1,0 +1,25 @@
+.my-portfolio {
+    background: rgba(202, 204, 211, 0.8);
+    padding-bottom: 10px;
+}
+
+.my-title {
+    color: black;
+}
+
+#featured-display {
+    background-color: #d5d5d5;
+    border: solid 2px #01395e;
+}
+
+.featured-img {
+    height: 281px;
+    width: 375px;
+    border: solid 1px #01395e;
+}
+
+.regular-img {
+    height: 188px;
+    width: 250px;
+    border: solid 1px #01395e;
+}

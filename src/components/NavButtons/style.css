@@ -1,0 +1,23 @@
+.nav-button {
+    font-family: 'Roboto', sans-serif;
+    
+    background-color: #01395e;
+    color: #cccccc;
+    text-decoration: none;
+    border: none;
+    /* display: inline; */
+    margin: 10px;
+    border-radius: 10px;
+    width: 75px;
+}
+
+.nav-button:hover {
+    background-color: #747474;
+    text-decoration: none;
+}   
+
+.header-container{
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+}

@@ -1,0 +1,76 @@
+{ 
+    "featured" : {
+        "url" : "https://submarine-sub-tracker.herokuapp.com",
+        "image" : "./images/submarine.jpg",
+        "title" : "Submarine"
+    },
+    "portfolio" : [
+      {
+        "featured" : false,
+        "image" : "./images/pexels-photo-264537_640x480.jpeg",
+        "url" : "https://hillnathan.github.io/Word-Guess-Game/",
+        "title" : "Name that Crudite!"
+      },
+      {
+        "featured" : false,
+        "image" : "./images/animals-q-c-640-480-2.jpg",
+        "url" : "https://hillnathan.github.io/unit-4-game/",
+        "title" : "Animal RPG Game"
+      },
+      {
+        "featured" : false,
+        "image" : "./images/80s-90s-abstract-background-1971425-small.jpg",
+        "url" : "https://hillnathan.github.io/TriviaGame/",
+        "title" : "90's Grunge Trivia Game"
+      },
+      {
+        "featured" : false,
+        "image" : "https://media.giphy.com/media/lN9amhr8GZMhG/source.gif",
+        "url" : "https://hillnathan.github.io/ajax_project/",
+        "title" : "Giphy API Project"
+      },
+      {
+        "featured" : false,
+        "image" : "./images/transport-q-c-640-480-9.jpg",
+        "url" : "https://hillnathan.github.io/Train_Times/",
+        "title" : "Platform 9 7/16"
+      },
+      {
+        "featured" : false,
+        "image" : "./images/food-q-c-640-480-3.jpg",
+        "url" : "https://chris284891.github.io/Group_One_Project/",
+        "title" : "My Chef"
+      },
+      {
+        "featured" : false,
+        "image" : "./images/Friend-finder.jpg",
+        "url" : "https://stormy-springs-79188.herokuapp.com",
+        "title" : "Friend Finder"
+      },
+      {
+        "featured" : false,
+        "image" : "./images/Eat-Da-Burger.jpg",
+        "url" : "https://fast-river-97732.herokuapp.com",
+        "title" : "Eat Da Burger"
+      },
+      {
+        "featured" : false,
+        "image" : "./images/logo7.png",
+        "url" : "https://rocky-mesa-95810.herokuapp.com/",
+        "title" : "NCN Shopify"
+      },
+      {
+        "featured" : false,
+        "image" : "./images/mongoScraper.jpg",
+        "url" : "https://tranquil-sea-68007.herokuapp.com/",
+        "title" : "Mongo Scraper"
+      },
+      {
+        "featured" : false,
+        "image" : "./images/clickyGame.jpg",
+        "url" : "https://hillnathan.github.io/clickygame/",
+        "title" : "Clicky Game"
+      }
+    ]
+  }
+  
